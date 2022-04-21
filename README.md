@@ -1,4 +1,4 @@
-# `Kieran's React Template v1`
+# `Form Validation with React Hooks`
 
 ### `npm start`
 
